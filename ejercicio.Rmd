@@ -1,0 +1,17 @@
+---
+title: "Carolina Pérez"
+image: "tobi.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/"
+  - label: Email
+    url: "mailto:email@email.com"
+output:
+  postcards::jolla
+---
+ 
+I am an industrial engineering student and I am studying the 9th cyclo
